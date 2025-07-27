@@ -16,8 +16,7 @@ TanakhCC is a fully-volunteer project to create a pool of transcription data for
 
 **An introduction to and explanation about TanakhCC** is available [on our website](https://tanakhcc.org).
 
-**Work on transcriptions** happens [in our transcription tool critic](https://critic.tanakhcc.org).
-    - Also check out [our guide to TanakhCC](https://guide.tanakhcc.org).
+**Work on transcriptions** happens [in our transcription tool critic](https://critic.tanakhcc.org). Also check out [our guide to TanakhCC](https://guide.tanakhcc.org/en).
 
 **The produced transcriptions** are available in [the transcriptions repository](https://github.com/tanakhcc/transcription).
 
