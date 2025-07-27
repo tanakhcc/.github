@@ -13,10 +13,13 @@ TanakhCC is a fully-volunteer project to create a pool of transcription data for
   Everything that TanakhCC does is MIT-0 (for the tools) or CC-0 (for the actual data).
   We want to provide Gods word free of charge, for anyone, forever, for any purpose, without any restrictions.
 
-## Where is...
-- **An introduction to and explanation about TanakhCC** is available [on our website](https://tanakhcc.org).
-- **Work on Transcriptions** happens [in our transcription tool critic](https://critic.tanakhcc.org).
-    - Also check out [our guide to TanakhCC](TODO-github-pages).
+
+**An introduction to and explanation about TanakhCC** is available [on our website](https://tanakhcc.org).
+
+**Work on transcriptions** happens [in our transcription tool critic](https://critic.tanakhcc.org).
+    - Also check out [our guide to TanakhCC](https://guide.tanakhcc.org).
+
+**The produced transcriptions** are available in [the transcriptions repository](https://github.com/tanakhcc/transcriptions)
 
 ## Contributing
 If you want to contribute to any of TanakhCCs tools, simply create a pull request.
